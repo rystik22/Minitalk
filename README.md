@@ -77,7 +77,7 @@ Client Process                      Server Process
      |                                    |---> Decodes signal to character
      |                                    |---> Prints character
      |                                    |
-     |----(Acknowledgment if bonus)----->|
+     |----(Acknowledgment if bonus)-----> |
      |                                    |
 ```
 
