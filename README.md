@@ -52,6 +52,10 @@ To stop the server, simply use:
 ```sh
 CTRL + C
 ```
+or
+```
+ESC
+```
 This will terminate the server process.
 
 ## ⚙️ Understanding the Communication Process
